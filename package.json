@@ -21,6 +21,10 @@
   "categories": [
     "Snippets"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carbonid1/EmmetJSS.git"
+  },
   "contributes": {
     "snippets": [
       {
