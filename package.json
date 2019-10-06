@@ -4,7 +4,7 @@
   "description": "Emmet-like snippets for JSS",
   "version": "0.0.1",
   "publisher": "carbonid1",
-  "icon": "emmet.png",
+  "icon": "media/emmet.png",
   "license": "MIT",
   "keywords": [
     "snippets",
