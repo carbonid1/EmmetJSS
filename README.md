@@ -8,7 +8,22 @@ Work in progress.
 ### Flexbox
 - `d:f` display: flex
 - `ai:c` align-items: center
+- `ai:fs` align-items: flex-start
+- `ai:fe` align-items: flex-end
 - `jc:c` justify-content: center
+- `jc:fs` justify-content: flex-start
+- `jc:fe` justify-content: flex-end
+- `jc:sa` justify-content: space-around
+- `jc:sb` justify-content: space-between
+- `fx` flex
+- `fxg` flex-grow
+- `fxsh` flex-shrink
+- `fxw` flex-wrap
+- `fxd` flex-direction
+- `fxd:c` flex-direction: column
+- `as:c` align-self: center
+- `as:fs` align-self: flex-start
+- `as:fe` align-self: flex-end
 
 ### Fonts
 - `fs` font-size
@@ -17,6 +32,8 @@ Work in progress.
 
 ### Color
 - `c` color
+- `c:ra` color rgba
+- `op` opacity
 
 ### Padding
 - `p` padding
