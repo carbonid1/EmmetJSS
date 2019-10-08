@@ -1,11 +1,17 @@
 {
+  "dispay: flex": { "prefix": "d:f", "body": [ "display: 'flex',", "" ] },
+  "align-items: center": { "prefix": "ai:c", "body": [ "alignItems: 'center',", "" ] },
+  "justify-content: center": { "prefix": "jc:c", "body": [ "justifyContent: 'center',", "" ] },
+
   "font-size": { "prefix": "fs", "body": ["fontSize: $1,", ""] },
   "font-family": { "prefix": "ff", "body": ["fontFamily: '$1',", ""] },
   "font-weight": { "prefix": "fw", "body": ["fontWeight: $1,", ""] },
 
+  "color": { "prefix": "c", "body": "color: '#$1'," },
+
   "padding": { "prefix": "p", "body": ["padding: $1,", ""] },
-  "padding-left": { "prefix": "pr", "body": ["paddingRight: $1,", ""] },
-  "padding-right": { "prefix": "pl", "body": ["paddingLeft: $1,", ""] },
+  "padding-right": { "prefix": "pr", "body": ["paddingRight: $1,", ""] },
+  "padding-left": { "prefix": "pl", "body": ["paddingLeft: $1,", ""] },
   "padding-top": { "prefix": "pt", "body": ["paddingTop: $1,", ""] },
   "padding-bottom": { "prefix": "pb", "body": ["paddingBottom: $1,", ""] },
 
@@ -15,13 +21,13 @@
   "margin-top": { "prefix": "mt", "body": [ "marginTop: $1,", "" ] },
   "margin-bottom": { "prefix": "mb", "body": [ "marginBottom: $1,", "" ] },
 
-  "dispay: flex": { "prefix": "d:f", "body": [ "display: 'flex',", "" ] },
   "dispay: inline-block": { "prefix": "d:ib", "body": [ "display: 'inline-block',", "" ] },
   "dispay: inline": { "prefix": "d:i", "body": [ "display: 'inline',", "" ] },
   "dispay: none": { "prefix": "d:n", "body": [ "display: 'none',", "" ] },
   "dispay: block": { "prefix": "d:b", "body": [ "display: 'block',", "" ] },
 
   "visibility: hidden": { "prefix": "v:h", "body": [ "visibility: 'hidden',", "" ] },
+
   "overflow: hidden": { "prefix": "ov:h", "body": [ "overflow: 'hidden',", "" ] },
   "overflow: visible": { "prefix": "ov:v", "body": [ "overflow: 'visible',", "" ] },
   "overflow: scroll": { "prefix": "ov:s", "body": [ "overflow: 'scroll',", "" ] },
@@ -37,13 +43,8 @@
 
   "cursor: pointer": { "prefix": "cur:p", "body": [ "cursor: 'pointer',", "" ] },
 
-  "align-items: center": { "prefix": "ai:c", "body": [ "alignItems: 'center',", "" ] },
-  "justify-content: center": { "prefix": "jc:c", "body": [ "justifyContent: 'center',", "" ] },
-
   "position-relative": { "prefix": "pos:r", "body": [ "position: 'relative',", "" ] },
   "position-absolute": { "prefix": "pos:a", "body": [ "position: 'absolute',", "" ] },
   "position-static": { "prefix": "pos:s", "body": [ "position: 'static',", "" ] },
-  "position-fixed": { "prefix": "pos:f", "body": [ "position: 'fixed',", "" ] },
-
-  "color": { "prefix": "c", "body": "color: '#$1'," }
+  "position-fixed": { "prefix": "pos:f", "body": [ "position: 'fixed',", "" ] }
 }
