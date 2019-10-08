@@ -2,8 +2,11 @@
 
 All notable changes to the "emmet-jss" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [0.3.0] - 2019-10-08
 
-## [Unreleased]
+### Added
+- Adds additional flex and color attributes
+- Adds list of all currently availiable attributes
 
-- Initial release
+### Changed
+- Changed the example gif
