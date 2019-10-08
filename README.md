@@ -2,7 +2,7 @@
 Work in progress.
 
 ## Usage
-![preview](media/example.gif)
+![preview](media/example_1.gif)
 
 ## Available snippets
 ### Flexbox
