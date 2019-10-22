@@ -1,5 +1,4 @@
 # Emmet-like JSS snippets
-Work in progress.
 
 ## Usage
 ![preview](media/example_1.gif)
@@ -80,6 +79,14 @@ Work in progress.
 - `pos:a` position: absolute
 - `pos:s` position: static
 - `pos:f` position: fixed
+
+### Width && Height
+- `w` width
+- `maw` max-width
+- `miw` min-width
+- `h` height
+- `mah` max-height
+- `mih` min-height
 
 ## For more information
 - Reference: [Emmet cheat sheet](https://docs.emmet.io/cheat-sheet/)
